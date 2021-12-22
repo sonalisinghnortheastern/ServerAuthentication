@@ -1,0 +1,3 @@
+[submodule "AuthServerDatabase"]
+	path = AuthServerDatabase
+	url = https://github.com/sonalisingh96/AuthServerDatabase
